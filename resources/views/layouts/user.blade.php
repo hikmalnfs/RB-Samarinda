@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Jogja Travel - Regna emplate</title>
+  <title>Rumah Bumn - Samarinda</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -41,8 +41,8 @@
 
       <div id="logo" class="pull-left">
         <a href="#hero">
-          <img src="{{asset('user/images/icon.png')}}" style="margin-right:5px"/></img>
-          <h2 class="d-inline text-light">Jogja-Travel</h2>
+          {{-- <img src="{{asset('user/images/rkb.png')}}" style="margin-right:5px"/></img>
+          <h2 class="d-inline text-light">RUMAH BUMN</h2> --}}
         </a>
       </div>
 
@@ -82,10 +82,10 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong>Regna</strong>. All Rights Reserved
+        &copy; Copyright <strong>RUMAH BUMN SAMARINDA</strong>. All Rights Reserved
       </div>
       <div class="credits">
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="https://bootstrapmade.com/">HIKMAL</a>
       </div>
     </div>
   </footer><!-- #footer -->

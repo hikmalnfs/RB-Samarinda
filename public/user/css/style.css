@@ -120,8 +120,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header #logo img {
-  padding: 0;
-  margin: 0;
+  width: 90px;        /* Mengatur lebar gambar menjadi 90px */
+    height: 90px;       /* Mengatur tinggi gambar menjadi 90px */
+    padding: 0;         /* Menghapus padding jika tidak diperlukan */
+    margin: 0;          /* Menghapus margin jika tidak diperlukan */
+    display: block;     /* Menghindari spasi di bawah gambar */
 }
 
 @media (max-width: 768px) {

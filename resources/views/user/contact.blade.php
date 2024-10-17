@@ -12,8 +12,8 @@
 @endsection
 
 @section('hero')
-    <h1>Contact Jogja-Travel</h1>
-    <h2>Bergabung dan liburan bersama Kami</h2>
+    <h1>Contact RUMAH BUMN SAMARINDA</h1>
+    <h2>Mari Bergabung</h2>
 @endsection
 
 @section('content')

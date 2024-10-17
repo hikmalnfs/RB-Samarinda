@@ -21,8 +21,8 @@
 
 
 ## Pengantar
-&emsp; &emsp; Ini adalah website company profile yang saya buat menggunakan Framework Laravel 6 untuk backend-nya dan framework bootstrap 4 untuk tampilannya. <br />
-&emsp; &emsp; Sistem ini berfungsi untuk ajang promosi usaha Agent Travel yang kita punya, dapat juga digunakan untuk menulis blog atau artikel-artikel seputar travelling dan membagikannya di website ini, selain itu kita juga bisa menampilkan destinasi-destinasi wisata yang dapat dikunjungi dengan jasa yang kita punya sehingga pengunjung bisa melihat dan memilih sendiri destinasi yang ingin dikunjungi.<br />
+&emsp; &emsp; Ini adalah website company profile yang saya buat menggunakan Framework Laravel untuk backend-nya dan framework bootstrap 4 untuk tampilannya. <br />
+&emsp; &emsp; Sistem ini berfungsi untuk base template website company profile, dapat juga digunakan untuk menulis blog atau artikel-artikel dan membagikannya di website ini.<br />
 	
 	
 ## Fitur
@@ -55,39 +55,3 @@ Software yang diperlukan untuk menjalankan aplikasi ini adalah
 12. ketik "php artisan serve" dan tekan enter
 13. Buka web browser dan tulis 'http://127.0.0.1:8000/' di form url lalu tekan enter.
 
-
-## Screenshot Halaman Admin
-<p align='Left' valign='top'>
-  <span>
-		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/admin-dashboard.png'  width=400 />
-		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/admin-category.png'  width=400 />
-		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/admin-articles.png'  width=400 />
-	    <img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/admin-about.png'  width=400 />
-  </span>
-</p>
-
-<br />
-<br />
-
-## Screenshot Halaman User
-<p align='Left' valign='top'>
-    <span>
-        <img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/user-home.jpg'  width=400 />
-        <img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/user-articles.png'  width=400 />
-    </span>
-</p>
-
-<p align='Left' valign='top'>
-    <span>
-        <img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/user-destinations.jpg'  width=400 />
-        <img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/user-contact.png'  width=400 />
-    </span>
-</p>
-
-
-
-<br />
-<br />
-
-## Kontak
-https://danyadhi.github.io/

@@ -21,9 +21,10 @@
 @endsection
 
 @section('hero')
-    <h1>Welcome to Jogja-Travel</h1>
-    <h2>Kami adalah agen travel terpercaya dan jaminan layanan perencanaan wisata yang mudah dan murah</h2>
-    <a href="#about" class="btn-get-started">Get Started</a>
+    <h1>Rumah Bumn Samarinda</h1>
+    <h2>Kami hadir dengan peran baru untuk pengayaan fungsi Rumah Kreatif BUMN <br>
+      guna memperkuat peran BUMN di tengah masyarakat.</h2>
+    <a href="#about" class="btn-get-started">Learn More</a>
 @endsection
 
 
@@ -50,15 +51,15 @@
       <section id="services">
         <div class="container wow fadeIn">
           <div class="section-header">
-            <h3 class="section-title">Mengapa Memilih Kami?</h3>
-            <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+            <h3 class="section-title">Keuntungan bergabung di Rumah BUMN Samarinda</h3>
+            <p class="section-description">Bergabunglah dengan Rumah BUMN Samarinda dan nikmati beragam manfaat eksklusif serta peluang yang ditawarkan</p>
           </div>
           <div class="row">
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
               <div class="box">
                 <div class="icon"><i class="fa fa-shield"></i></div>
-                <h4 class="title">Keamanan Berkendara</h4>
-                <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                <h4 class="title">Akses Permodalan</h4>
+                <p class="description">Dapatkan permodalan sesuai kebutuhan pengembangan usaha Anda dengan akses KUR (Kredit Usaha Rakyat) dan PKBL (Program Kemitraan Bina Lingkungan).</p>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
